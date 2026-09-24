@@ -1,21 +1,35 @@
-# Lista de Exercícios — Algoritmos e Pensamento Computacional
+# Lista de Exercícios 01 — Algoritmos e Pensamento Computacional
 
-Repositório destinado às soluções da Lista de Exercícios da disciplina
-Algoritmos e Pensamento Computacional — 2026/2.
+Repositório contendo as soluções da Lista de Exercícios 01 da disciplina
+Algoritmos e Pensamento Computacional.
 
-nome:
+## Aluno
+
 **Kauã Palota**
 
-## Estrutura
+## Disciplina
 
-Os exercícios estão organizados individualmente na pasta `exercicios/`.
+**Algoritmos e Pensamento Computacional**
 
-| Exercício | Arquivo | Status |
+## Instituição
+
+**Universidade Positivo — ETI**
+
+## Organização
+
+Os exercícios estão separados individualmente na pasta `exercicios/`.
+
+| Exercício | Arquivo | Tema |
 |---|---|---|
-| 01 | `ex01.c` | ⬜ |
-| 02 | `ex02.c` | ⬜ |
-| 03 | `ex03.c` | ⬜ |
-| 04 | `ex04.c` | ⬜ |
+| 01 | `ex01.c` | Pseudocódigo e abstração |
+| 02 | `ex02.c` | Sequência de Fibonacci |
+| 03 | `ex03.c` | Decomposição e repetição |
+| 04 | `ex04.c` | Simulação de fila |
+| 05 | `ex05.c` | Pilares do pensamento computacional |
+| 06 | `ex06.c` | Laços e reconhecimento de padrões |
+| 07 | `ex07.c` | Simulação de semáforo |
+| ... | ... | ... |
+| 56 | `ex56.c` | Sistema de login |
 
 ## Linguagem
 
@@ -23,5 +37,5 @@ Os exercícios estão organizados individualmente na pasta `exercicios/`.
 
 ## Observações
 
-Cada exercício possui um arquivo `.c` independente, conforme as
-orientações de entrega.
+Cada exercício possui uma solução independente, conforme as orientações
+da atividade.
