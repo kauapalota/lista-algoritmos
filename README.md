@@ -9,11 +9,11 @@ Algoritmos e Pensamento Computacional.
 
 ## Disciplina
 
-**Algoritmos e Pensamento Computacional**
+Algoritmos e Pensamento Computacional
 
 ## Instituição
 
-**Universidade Positivo — ETI**
+Universidade Positivo — ETI
 
 ## Organização
 
