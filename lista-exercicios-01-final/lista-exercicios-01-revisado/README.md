@@ -1,7 +1,7 @@
 # Lista de Exercícios 01 — Algoritmos e Pensamento Computacional
 
 **Universidade:** Universidade Positivo — ETI | Escola de Tecnologia da Informação  
-**Professor:** MSc Diego Fernando Maia  
+**Professor:** Diego Fernando Maia  
 **Período:** 2026/02  
 **Aluno:** Kauã Palota
 
